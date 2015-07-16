@@ -1,4 +1,4 @@
-FROM cloudesire/java:8
+FROM hypriot/rpi-java
 
 MAINTAINER esteban.wasinger@mulesoft.com
 
